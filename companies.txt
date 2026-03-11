@@ -1,0 +1,10 @@
+Apple
+Microsoft
+Google
+Amazon
+Meta
+Netflix
+Nvidia
+Tesla
+Salesforce
+Adobe
