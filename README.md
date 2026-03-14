@@ -4,7 +4,7 @@ A Python tool that uses LLMs to compute pairwise business similarity across a us
 
 ## Motivation
 
-Standard industry classification systems (SIC, GICS) assign companies to coarse discrete categories, hence losing the nuance of how businesses actually overlap. Two companies can share a SIC code but barely compete, or span multiple industries entirely. This tool generated continuous similarity scores based on the semantic content of each company's actual business model.
+Standard industry classification systems (SIC, GICS) assign companies to coarse discrete categories, hence losing the nuance of how businesses actually overlap. Two companies can share a SIC code but barely compete, or span multiple industries entirely. This tool generates continuous similarity scores based on the semantic content of each company's actual business model.
 
 ## How It Works
 
